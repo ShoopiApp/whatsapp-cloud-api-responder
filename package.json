@@ -1,6 +1,6 @@
 {
   "name": "@shoopi/whatsapp-cloud-api-responder",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Helper package for the whatsapp cloud api",
   "main": "dist/index.js",
   "scripts": {
