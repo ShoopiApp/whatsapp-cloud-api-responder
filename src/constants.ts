@@ -1,1 +1,1 @@
-export const ENDPOINT = 'https://graph.facebook.com/v12.0/$phone_number_id/messages?access_token=$token'
+export const ENDPOINT = 'https://graph.facebook.com/v15.0/$phone_number_id/messages?access_token=$token';
